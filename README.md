@@ -1,10 +1,14 @@
-This is just to create a file for the repo.
-Project - Smack a Mon
+Smack a Mon!
 
-Game instructions go here! 
+This is a Java project by Steel Anderson and Braeden Christensen.
 
+The idea of this project is to implement an application with at least;
 
-ToDo goes here!
-1. Consildate plan, classes, array, and so on.
-2. Add Steele to Repo list
-3. Profit
+3 classes
+
+1 for loop
+
+1 array/ArrayList
+
+This comes with no warrenty whatsoever, and as it is mostly just for class/
+amusement, should not be taken seriously.
